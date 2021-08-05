@@ -1,0 +1,25 @@
+{
+  "short_name": "CamargoHost",
+  "name": "Serviço de Hospedagem | CamargoHost | CamargoHost.com.br",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "1200x1200"
+    },
+    {
+      "src": "cmrstreaming.png",
+      "type": "image/png",
+      "sizes": "1349x767"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
