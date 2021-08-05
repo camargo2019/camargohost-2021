@@ -1,0 +1,109 @@
+.p-5 {
+    padding: 3rem !important;
+}
+.mt-4, .my-4 {
+    margin-top: 1.5rem !important;
+}
+.shadow-sm {
+    -webkit-box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%) !important;
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%) !important;
+}
+.border {
+    border: 1px solid rgba(93, 118, 174, 0.15) !important;
+}
+.bg-white {
+    background-color: #fff !important;
+}
+.pricing-new-wrapper {
+    position: relative;
+    display: block;
+    border-radius: 1rem;
+}
+.pricing-new-wrapper:after {
+    content: '';
+    position: absolute;
+    background-color: #0948b3;
+    border-radius: 3px;
+    width: 50%;
+    height: 3px;
+    top: 2px;
+    left: 0;
+    right: 50%;
+    -webkit-transform: translate(50%, -50%);
+    transform: translate(50%, -50%);
+}
+.mt-4, .my-4 {
+    margin-top: 1.5rem !important;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+.pricing-new-wrapper li:first-child {
+    border-top: none;
+}
+.pricing-new-wrapper li {
+    padding: 5px 0 5px 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: baseline;
+    -ms-flex-align: baseline;
+    align-items: baseline;
+    border-top: 1px dashed #e5e9f2;
+}
+.pricing-new-wrapper li p {
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #6c757d;
+}
+.pricing-new-wrapper li p strong {
+    color: initial;
+}
+
+.p-icon h5 {
+    font-size: 1.22125rem;
+    margin-bottom: 0.977rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #1a202c;
+}
+.text-dark {
+    color: #343a40 !important;
+}
+.mb-0, .my-0 {
+    margin-bottom: 0 !important;
+}
+.h3{
+    font-size: 1.70975rem;
+    margin-bottom: 0.977rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #1a202c;
+}
+.icone-plano {
+    font-size: 14px!important;
+    margin-right: 0.5rem !important;
+    font-weight: 900!important;
+    color: #6c757d!important;
+}
+
+.button-sell {
+    border-color: #0948b3;
+    color: #083e9b;
+    cursor: pointer;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.margin-bottom{
+    margin-bottom: 10vh!important;
+}
+li img{
+    width: 90%;
+    margin-left: 5%;
+    
+}

@@ -1,0 +1,313 @@
+.container-principais-services{
+    background-image: linear-gradient(143deg,#0d669a,#08504d 83%);
+    height: 75vh;
+}
+.title-principais-services{
+    font-family: Roboto,sans-serif;
+    padding-top: 50px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 38px;
+    line-height: 42px;
+    font-weight: 700;
+    text-align: center;
+}
+.produtos-principais-services{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.produtos-principais-services img{
+    width: 80vh;
+}
+.container-anuncios{
+    background-color: white;
+    background-image: linear-gradient(143deg,#0d669a,#08504d 83%);
+    height: 45vh;
+}
+
+.anuncios-title{
+    font-family: Roboto,sans-serif;
+    padding-top: 50px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.imagemContainer{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10vh;
+    margin-top: 15vh;
+}
+.imagemContainer img{
+    height: 30vh;
+    padding-top: 105px;
+}
+.text-uptime{
+    padding-top: 60px;
+    display: inline-block;
+    padding-bottom: 5px;
+    border-bottom: 1px #2e2e2e;
+    color: #a8a8a8;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.black-text {
+    color: #000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 38px;
+    line-height: 48px;
+    font-weight: 700;
+}
+.text-up{
+width: 50%;
+}
+.anuncios-descricao{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.link-button-home{
+    outline: none!important;
+    text-decoration: none!important;
+    color:white!important;
+}
+
+.icone-user-clientes{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.quantidade-user-clientes{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 36px;
+}
+.texto-user-clientes{
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 0;
+}
+.font-user-clientes{
+    font-size: 4rem!important;
+    color: #fff;
+}
+.color-white{
+    color: #fff;
+}
+.background-anuncios{
+    margin-top: 0px;
+}
+.background-anuncios-benificios{
+    margin-top: 60px;
+}
+.background-anuncios-protecao{
+    margin-top: 60px;
+}
+.icon-anuncions{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.font-icon-anuncions{
+    font-size: 3rem!important;
+    color: #1b1b1b;
+}
+.container-benificios-anuncios{
+    height: 160vh;
+}
+.icon-h4-text{
+    font-family: Roboto,sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #000;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    text-align:center;
+}
+p {
+    font-family: Roboto,sans-serif;
+    margin-bottom: 10px;
+    color: #6b6b6b;
+    font-size: 16px;
+    line-height: 30px;
+    text-align:center;
+}
+.reduzirDiv{
+    width: 90%;
+    margin-left: 5%;
+}
+.container-clientes{
+    width: 100%;
+    max-width: 100%;
+    background-image: linear-gradient(143deg,#161d6d,#1b3461 83%);
+    /*background-image: url('../../assets/img/achievement-bg.jpg');*/
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.font-protecao{
+    font-size: 2.29595rem;
+    margin-bottom: 0.977rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #000;
+}
+.color-black{
+    color: black;
+}
+
+.check-list-wrap.list-two-col {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding-bottom: 1rem !important;
+    padding-top: 1rem !important;
+    list-style: none;
+    width:100%;
+}
+.check-list-wrap li {
+    position: relative;
+    padding: .5rem 0 .5rem 1.875rem;
+    line-height: inherit;
+}
+
+.li {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 50%;
+    flex: 1 1 50%;
+    max-width: 50%;
+    padding-right: 15px;
+    width: 40%;
+    max-width: 40%;
+}
+
+.li:before {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    font-family: "Font Awesome 5 Free";
+    content: "\f058";
+    font-weight: 900;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: #0948b3;
+}
+.verify-color{
+    position: absolute;
+    top: 10px;
+    left: 0;
+    font-weight: 900;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: #0948b3;
+}
+.img-fluid{
+    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
+}
+/* Celular */
+@media only screen and (max-width: 900px) {
+    .container-principais-services{
+        height: 75vh;
+    }
+    .imagemContainer{
+        display: block;
+    }
+    .produtos-principais-services img{
+        width:  100%;
+    }
+    .imagemContainer img{
+        height: auto;
+        width: 40%;
+        padding-top: 50px;
+        padding-left: 30px;
+    }
+    .text-uptime{
+        padding-top: 60px;
+        display: inline-block;
+        padding-bottom: 5px;
+        border-bottom: 1px #2e2e2e;
+        color: #a8a8a8;
+        font-size: 12px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+    .black-text {
+        color: #000;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 38px;
+        line-height: 48px;
+        font-weight: 700;
+    }
+    .text-up{
+        width: 50%;
+    }
+    .responsive-grid{
+        display: block!important;
+    }
+    .grid-responsive{
+        max-width: 100%!important;
+        flex-basis: 100%!important;
+        padding-right: 0px!important;
+    }
+    .grid-responsive-img{
+        display: flex;
+        justify-content: center;
+    }
+    .text-uptime{
+        text-align: center;
+        width: 100%;
+    }
+    .black-text{
+        width: 100%;
+        text-align: center;
+    }
+    .text-up {
+        width: 90%;
+        font-size: 20px;
+        text-align: center;
+        margin-left: 5%;
+    }
+    .anuncios-descricao{
+        display: block;
+        margin-top: 30px;
+    }
+    .link-button-home{
+        outline: none!important;
+        text-decoration: none!important;
+        display: flex;
+        justify-content: center;
+    }
+    .container-benificios-anuncios{
+        height: 265vh;
+    }
+    .max-width{
+        min-width: 100%;
+    }
+    .img-fluid{
+        max-width: 100%;
+        min-width: 100%;
+        width: 100%;
+    }
+}

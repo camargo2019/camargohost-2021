@@ -1,0 +1,39 @@
+.pt-5, .py-5 {
+    padding-top: 3rem!important;
+}
+.terms-condition{
+    text-align: justify;
+}
+.ptb-100 {
+    padding: 100px 0;
+}
+.ptb-50{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 0px;
+
+}
+h5, .h5 {
+    font-size: 1.22125rem;
+    margin-bottom: .977rem;
+    font-family: roboto,sans-serif;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #161d6d;
+}
+p {
+    margin-top: 0;
+    text-align: justify;
+    margin-bottom: 1rem;
+}
+.margin-left{
+    margin-left: 3%
+}
+small, .small {
+    font-size: 85%;
+    font-weight: 400;
+    color: #6b6b6b;
+    font-size: 16px;
+    line-height: 30px;
+}
