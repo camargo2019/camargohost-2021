@@ -31,7 +31,6 @@ function MultiTheftAuto() {
       <div>
         <Menu tipo="mta" />
         <Container>
-          <div class="anuncios-title color-black">Hospedagem Multi Theft Auto!</div>
           <Grid container spacing={2} className="margin-bottom">
 
             <Grid item xs className="max-width">
@@ -44,7 +43,7 @@ function MultiTheftAuto() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$9.99<span class="price-cycle h6">/Mês</span>
+                      R$14.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -103,7 +102,7 @@ function MultiTheftAuto() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$19.99<span class="price-cycle h6">/Mês</span>
+                      R$29.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -161,7 +160,7 @@ function MultiTheftAuto() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$34.99<span class="price-cycle h6">/Mês</span>
+                      R$54.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -218,7 +217,7 @@ function MultiTheftAuto() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$59.99<span class="price-cycle h6">/Mês</span>
+                      R$74.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     

@@ -31,7 +31,6 @@ function Hospedagem() {
       <div>
         <Menu tipo="hospedagem" />
         <Container>
-          <div class="anuncios-title color-black">Hospedagem de Sites!</div>
           <Grid container spacing={2} className="margin-bottom">
 
             <Grid item xs className="max-width">
@@ -44,7 +43,7 @@ function Hospedagem() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$9.99<span class="price-cycle h6">/Mês</span>
+                      R$24.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -103,7 +102,7 @@ function Hospedagem() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$19.99<span class="price-cycle h6">/Mês</span>
+                      R$32.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -162,7 +161,7 @@ function Hospedagem() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$34.99<span class="price-cycle h6">/Mês</span>
+                      R$48.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -220,7 +219,7 @@ function Hospedagem() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$49.99<span class="price-cycle h6">/Mês</span>
+                      R$79.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     

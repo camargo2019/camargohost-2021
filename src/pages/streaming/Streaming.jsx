@@ -33,7 +33,6 @@ function Streaming() {
       <div>
         <Menu tipo="streaming" />
         <Container>
-          <div class="anuncios-title color-black">Streaming de Áudio!</div>
           <Grid container spacing={2} className="margin-bottom">
 
             <Grid item xs className="max-width">
@@ -46,7 +45,7 @@ function Streaming() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$9.99<span class="price-cycle h6">/Mês</span>
+                      R$19.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -109,7 +108,7 @@ function Streaming() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$19.99<span class="price-cycle h6">/Mês</span>
+                      R$26.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -171,7 +170,7 @@ function Streaming() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$34.99<span class="price-cycle h6">/Mês</span>
+                      R$64.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -232,7 +231,7 @@ function Streaming() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$49.99<span class="price-cycle h6">/Mês</span>
+                      R$89.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     

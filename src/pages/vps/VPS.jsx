@@ -34,7 +34,6 @@ function VPS() {
       <div>
         <Menu tipo="vps" />
         <Container>
-          <div class="anuncios-title color-black">VPS no Brasil!</div>
           <Grid container spacing={2} className="margin-bottom">
 
             <Grid item xs className="max-width">
@@ -47,7 +46,7 @@ function VPS() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$74.99<span class="price-cycle h6">/Mês</span>
+                      R$44.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
 
@@ -101,7 +100,7 @@ function VPS() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$149.99<span class="price-cycle h6">/Mês</span>
+                      R$93.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
@@ -155,7 +154,7 @@ function VPS() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$224.99<span class="price-cycle h6">/Mês</span>
+                      R$178.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                   
@@ -208,7 +207,7 @@ function VPS() {
                     </span>
 
                     <div class="h3 mb-0 text-dark">
-                      R$299.99<span class="price-cycle h6">/Mês</span>
+                      R$276.99<span class="price-cycle h6">/Mês</span>
                     </div>
                   </div>
                     
